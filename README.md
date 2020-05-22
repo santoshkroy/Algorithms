@@ -1,1 +1,1 @@
-# Techie
+# ALGORITHMS
